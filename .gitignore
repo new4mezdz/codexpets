@@ -1,0 +1,5 @@
+*.bak
+*.tmp
+qa/
+backup/
+pet-runs/
