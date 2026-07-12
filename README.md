@@ -49,7 +49,7 @@ docs/images/
 3. `running-left` — 向左贴墙慢挪
 4. `waving` — 挥手
 5. `jumping` — 鼠标悬停时害羞
-6. `failed` — 失败或受阻
+6. `failed` — 失败或受阻，站立紧张流汗
 7. `waiting` — 等待输入
 8. `running` — 思考、抬头并出现问号
 9. `review` — 完成并等待查看
@@ -74,7 +74,7 @@ docs/images/
 - Sprite v2，11 行状态
 - 72 帧无损动态 WebP
 - 64.15 秒无限循环
-- 图集约 4.53 MB
+- 图集约 4.40 MB
 - 非待机状态在全部动态帧中保持一致
 - 无可见残影、裁切或尺寸跳变
 
