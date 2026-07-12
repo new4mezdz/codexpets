@@ -37,7 +37,7 @@ xiaoxue/
 output/pdf/
   xiaoxue-state-preview.pdf  11 行状态与长待机预览
 docs/images/
-  xiaoxue-state-overview.png README 内嵌状态总览图
+  xiaoxue-state-overview.gif README 内嵌动态状态总览
 ```
 
 ## 状态
@@ -58,9 +58,9 @@ docs/images/
 
 ### 状态总览
 
-[![小雪 11 行状态总览](docs/images/xiaoxue-state-overview.png)](output/pdf/xiaoxue-state-preview.pdf)
+[![小雪 11 行动态状态总览](docs/images/xiaoxue-state-overview.gif)](output/pdf/xiaoxue-state-preview.pdf)
 
-点击图片或[查看 / 下载状态预览 PDF](output/pdf/xiaoxue-state-preview.pdf)，可继续查看基础状态帧、64.15 秒待机时间线，以及 16 方向鼠标注视素材。
+上图为便于浏览的动态快放预览。点击图片或[查看 / 下载状态预览 PDF](output/pdf/xiaoxue-state-preview.pdf)，可继续查看基础状态帧、准确的 64.15 秒待机时间线，以及 16 方向鼠标注视素材。
 
 待机不是短动画机械重复，而是一条预先编排的 64.15 秒时间线：共 72 帧，穿插单眨眼、双眨眼、左右轻瞄、害羞小动作、短挥手和整理衣襟。当前宠物清单不支持运行时随机抽取动作，因此它属于“长周期随机感”，约 64.15 秒后循环。
 
